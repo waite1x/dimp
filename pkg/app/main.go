@@ -12,9 +12,9 @@ func (a *AppContext) AddCmd(cmdCreator func() *cobra.Command) {
 
 func (a *AppContext) Build() (*App, error) {
 	rootCmd := &cobra.Command{
-		Use:   "dexp",
-		Short: "dexp",
-		Long:  "dexp",
+		Use:   "dimp",
+		Short: "dimp",
+		Long:  "dimp",
 	}
 
 	for _, cmdBuilder := range a.cmdBuidlers {

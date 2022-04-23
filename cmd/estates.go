@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"dexp/pkg/file"
+	"dimp/pkg/file"
 	"encoding/json"
 	"errors"
 

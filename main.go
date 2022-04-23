@@ -1,8 +1,8 @@
 package main
 
 import (
-	"dexp/cmd"
-	"dexp/pkg/app"
+	"dimp/cmd"
+	"dimp/pkg/app"
 	"log"
 )
 

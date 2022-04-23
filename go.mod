@@ -1,4 +1,4 @@
-module dexp
+module dimp
 
 go 1.17
 
